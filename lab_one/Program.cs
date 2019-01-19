@@ -92,7 +92,6 @@ namespace lab_one
 
             }
 
-
             Console.WriteLine("Program has concluded");
         }
     }
