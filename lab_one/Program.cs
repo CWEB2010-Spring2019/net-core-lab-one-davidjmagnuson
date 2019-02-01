@@ -38,7 +38,7 @@ namespace lab_one
                                     };
             string selection;
             string start;
-            string EXIT = "x"; //sentinel value
+            string EXIT = "X"; //sentinel value
 
             List<string> correct = new List<string>();
             List<string> wrong = new List<string>();
